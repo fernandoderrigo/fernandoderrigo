@@ -90,8 +90,8 @@
 <h3 align="center" style="color:#4CAF50;">Estadísticas de GitHub:</h3>
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=fernandoderrigo&show_icons=true&locale=en" alt="fernandoderrigo" style="width: 300px; height: 150px; object-fit: cover;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoderrigo&" alt="fernandoderrigo" style="width: 300px; height: 150px; object-fit: cover;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=fernandoderrigo&show_icons=true&locale=en" alt="fernandoderrigo" style="width: 400px; height: 200px; object-fit: cover;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoderrigo&" alt="fernandoderrigo" style="width: 400px; height: 200px; object-fit: cover;"/>
   </div>
 </p>
 
