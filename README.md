@@ -89,9 +89,7 @@
 
 <h3 align="center" style="color:#4CAF50;">Estadísticas de GitHub:</h3>
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=fernandoderrigo&show_icons=true&locale=en" alt="fernandoderrigo" style="width: 400px; height: 200px; object-fit: cover;"/>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandoderrigo&show_icons=true&locale=en" alt="fernandoderrigo" style="margin: 0 10px;"/>
 </p>
 
 
