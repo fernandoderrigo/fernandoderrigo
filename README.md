@@ -1,6 +1,6 @@
-<h1 align="center" style="color:#4CAF50;">Hola 👋, soy Fernando Derrigo | Hello 👋, I’m Fernando Derrigo</h1>
-<h3 align="center" style="color:#FFC107;">Programador Full Stack en constante aprendizaje | Full Stack Developer with a constant learning mindset</h3>
-<p align="center">Actualmente, estudio ingeniería informática en la Universidad Nacional de la Matanza. Me apasiona el desarrollo y siempre busco nuevas oportunidades para mejorar mis habilidades. | I am currently studying Computer Engineering at the National University of La Matanza. I am passionate about development and always seek new opportunities to enhance my skills.</p>
+<h1 align="center" style="color:#4CAF50;">Hola 👋, soy Fernando Derrigo</h1>
+<h3 align="center" style="color:#FFC107;">Programador Full Stack en constante aprendizaje</h3>
+<p align="center">Actualmente, estudio ingeniería informática en la Universidad Nacional de la Matanza. Me apasiona el desarrollo y siempre busco nuevas oportunidades para mejorar mis habilidades.</p>
 
 
 <p align="center">
